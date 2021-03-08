@@ -1,0 +1,13 @@
+<app-header class=""></app-header>
+
+
+  <div class="container-fluid">
+
+    <app-left-nav></app-left-nav>
+    <div class="container">
+      <app-navigation-tabs *ngIf="isLoggedIn"></app-navigation-tabs>
+      <div class="content pt-2">
+        <router-outlet></router-outlet>
+      </div>
+    </div>
+  </div>

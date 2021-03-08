@@ -1,0 +1,226 @@
+[
+    {
+        "title": "The main concepts",
+        "header": "",
+        "iconUrl":"assets/images/icons/privacy.png",
+        
+        "sub": [
+            { 
+                "title": "What is Personal data?" , 
+                "data": "dummy data"
+            },
+            { 
+                "title": "Who is the Data Subject?" , 
+                "data": "dummy data"
+            },
+            { 
+                "title": "Data protection and privacy" , 
+                "data": "dummy data"
+            },
+            { 
+                "title": "Data controller and Data processor" , 
+                "data": "dummy data "
+            }
+        ]   
+        
+    },
+
+    {
+        "title": "Local acts and regulations",
+        "header": "",
+        "iconUrl":"assets/images/icons/documents.png",
+        
+        "sub": [
+            { 
+                
+                "title": "Local acts and regulations" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "<span class='number'>1</span> dummy data" , 
+                "data": [
+                    { 
+                        
+                        "title": "Dummy" , 
+                        "data": "dummy data"
+                    },
+                    { 
+                        
+                        "title": "dummy data" , 
+                        "data": "dummy data"
+                    }
+                ]
+            },
+            { 
+                
+                "title": "<span class='number'>2</span> Dummy" ,
+                "data": [
+                    { 
+                        
+                        "title": "Dummy" , 
+                        "data": "dummy data"
+                    },
+                    { 
+                        
+                        "title": "2-1 Dummy " , 
+                        "data": "dummy data"
+                    },
+                    { 
+                        
+                        "title": "2-2 Dummy" , 
+                        "data": "dummy data"
+                    },
+                    { 
+                        
+                        "title": "2-3 Dummy" , 
+                        "data": "dummy data"
+                    },
+                    { 
+                        
+                        "title": "2-4 Dummy" , 
+                        "data": "dummy data"
+                    }
+                ] 
+
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data Protection and Privacy Principles",
+        "header": "Dummy",
+        "iconUrl":"assets/images/icons/sync.png", 
+              
+        "sub": [
+            { 
+                        
+                "title": "Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-1 Dummy " , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-2 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-3 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-4 Dummy" , 
+                "data": "dummy data"
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data Subject Rights",
+        "header": "Dummy",
+        "iconUrl":"assets/images/icons/security.png", 
+              
+        "sub": [
+            { 
+                        
+                "title": "Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-1 Dummy " , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-2 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-3 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-4 Dummy" , 
+                "data": "dummy data"
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data controller obligations & general provisions",
+        "header": "dummt",
+        "iconUrl":"assets/images/icons/data-protection.png",             
+        "sub": [
+            { 
+                        
+                "title": "Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-1 Dummy " , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-2 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-3 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-4 Dummy" , 
+                "data": "dummy data"
+            }
+
+        ]   
+        
+    },
+    {
+        "title": "Sensitive Data Categories ",
+        "header": "dummy",
+        "iconUrl":"assets/images/icons/padlock.png",
+              
+        "sub": [
+            { 
+                        
+                "title": "Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-1 Dummy " , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-2 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-3 Dummy" , 
+                "data": "dummy data"
+            },
+            { 
+                
+                "title": "2-4 Dummy" , 
+                "data": "dummy data"
+            }
+        ]   
+        
+    }
+]

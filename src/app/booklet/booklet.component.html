@@ -1,0 +1,40 @@
+<div class="title ml-2 ">
+    <h3 class="pb-3">Our Motto</h3>
+    <p class="pb-2"> Our <b>Motto</b> is to ensure <span>" ensure a safe data journey at dummy "</span> dsfafdsfswdsfm
+        sdjfb sdjhbaew sjhbea hasdfhfa sadfsdfdfzg</p>
+</div>
+
+<accordion class="text-dark bg-white" [isAnimated]="true" closeOthers="true">
+
+    <accordion-group class="" *ngFor="let item of data;let i = index">
+
+        <div accordion-heading class="d-flex">
+            <div class="icons protection{{i}} p-2"><img [src]="item.iconUrl" alt=""></div>
+            <div [innerHtml]="item.title" class="title p-3"></div>
+            <i class="fa fa-caret-down ml-auto" data-toggle="collapse" ></i>
+        </div>
+        <ng-container *ngIf="item.sub.length > 0">
+            <accordion [isAnimated]="true" closeOthers="true">
+                <accordion-group *ngFor="let child of item.sub;">
+                    <div [innerHtml]="child.title" class="title" accordion-heading> </div>
+
+                    <div *ngIf="child.data.length >= 10 ;else haveGrandChild" [innerHtml]="child.data"> </div>
+                    <ng-template #haveGrandChild>
+                        <accordion [isAnimated]="true" closeOthers="true">
+                            <accordion-group *ngFor="let grandChild of child.data">
+                                <div class="accorHead " [innerHtml]="grandChild.title" accordion-heading>
+                                </div>
+                                <ul *ngIf="grandChild.data.length > 0">
+                                    <li [innerHtml]="grandChild.data"></li>
+                                </ul>
+                            </accordion-group>
+                        </accordion>
+                    </ng-template>
+
+                </accordion-group>
+            </accordion>
+        </ng-container>
+
+    </accordion-group>
+
+</accordion>

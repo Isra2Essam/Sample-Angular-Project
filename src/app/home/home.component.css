@@ -1,0 +1,96 @@
+
+img#ceo{
+    width: 80%;
+    height: 100%;
+}
+.motto {
+    height: 50px;
+    background-color: #ff375c;
+    color: #fff;
+    
+}
+.safe-data {
+    height: 50px;
+    background-color: #51028e;
+    color: #fff;
+   
+}
+@media screen and (min-width:426px){
+    .motto{
+        font-weight: 600;
+        font-size: 18px;
+         margin-left: 13px; 
+        width: 21%
+    }
+    .safe-data{
+        font-weight: 600;
+        font-size: 18px;
+        width: 76%;
+        /* margin-left: 13px; */
+    }
+}
+@media screen and (max-width:425px) {
+    .motto {
+        width: 100% !important;
+        margin-left: 8px !important;
+    }
+    .safe-data{
+        width: 100% !important;
+        margin-left: 8px !important
+    }
+}
+
+
+h4#title1 {
+    color: #51028e
+}
+
+h2#title2 {
+    color: #000;
+    font-weight: 500
+}
+
+span#privacy {
+    color: #ff375c
+}
+
+h4#eng {
+    color: #000;
+    font-weight: 400
+}
+
+h3 {
+    color: #000
+}
+
+p#gceo {
+    color: #ff375c
+}
+
+.left-side {
+    height: 120px;
+    width: 10px!important;
+    background-color: #51028e;
+    margin-left: px
+}
+
+a {
+    color: #ff375c
+}
+
+.qr img {
+    width: 100px;
+    margin-left: 80px
+}
+
+.obj {
+    margin-left: .1px
+}
+
+.objective {
+    background-color: #fff;
+    height: 200px;
+    width: 100%;
+    box-shadow: #000;
+    box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, .082)
+}

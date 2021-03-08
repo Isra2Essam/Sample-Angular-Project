@@ -1,0 +1,57 @@
+
+button{
+    color: black;
+}
+@media only screen and (min-width:768px){
+    .icons{
+        width: 50px;
+    }
+}
+@media only screen and (max-width:426px){
+    .icons{
+        display: none;
+    }
+}
+.protection0{
+    background-color: #FD6A39;
+    
+}
+img{
+    width: 35px;
+}
+.protection1{
+    background-color: #FFDB45;
+    
+}
+.protection2{
+    background-color: #00C58E;
+  
+}
+.protection3{
+    background-color: #17CFDB;
+   
+}
+.protection4{
+    background-color: #A44FE2;
+   
+}
+.protection5{
+    background-color: #8F9AA0;
+ 
+}
+.fa-caret-down{
+    color: #8D8D8D;
+    margin-right: 15px;
+    margin-top: 17px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.title{
+    color: black;
+}
+span{
+    color: #ff375c;
+    font-weight: 700;
+}
+.panel-title accordion-heading{color: #000; }

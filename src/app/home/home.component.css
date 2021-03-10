@@ -38,6 +38,9 @@ img#ceo{
         width: 100% !important;
         margin-left: 8px !important
     }
+    .left-side{
+        display: none;
+    }
 }
 @media only screen and (max-width:769px){
     img#ceo{

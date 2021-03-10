@@ -29,7 +29,7 @@ img#ceo{
         /* margin-left: 13px; */
     }
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:426px) {
     .motto {
         width: 100% !important;
         margin-left: 8px !important;
@@ -37,6 +37,11 @@ img#ceo{
     .safe-data{
         width: 100% !important;
         margin-left: 8px !important
+    }
+}
+@media only screen and (max-width:769px){
+    img#ceo{
+        width: 70%;
     }
 }
 

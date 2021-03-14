@@ -1,6 +1,6 @@
 
 img#ceo{
-    width: 80%;
+    width: 95%;
     height: 100%;
 }
 .motto {
@@ -49,6 +49,9 @@ img#ceo{
     img#ceo{
         width: 70%;
     }
+    .qr img{
+        /* margin-left: 0% !important; */
+    }
 }
 
 
@@ -91,7 +94,7 @@ a {
 
 .qr img {
     width: 100px;
-    margin-left: 80px
+ 
 }
 
 .obj {

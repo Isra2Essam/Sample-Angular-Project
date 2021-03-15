@@ -1,6 +1,6 @@
 
 img#ceo{
-    width: 95%;
+    width: 93%;
     height: 100%;
 }
 .motto {
@@ -38,9 +38,10 @@ img#ceo{
         width: 100% !important;
         margin-left: 8px !important
     }
-    .left-side{
-        display: none;
+    .left{
+        display: none !important;
     }
+    
     .objective{
         max-width: 90%;
     }
@@ -49,8 +50,8 @@ img#ceo{
     img#ceo{
         width: 70%;
     }
-    .qr img{
-        /* margin-left: 0% !important; */
+    .left-side{
+        height: 110px !important;
     }
 }
 
@@ -82,7 +83,7 @@ p#gceo {
 }
 
 .left-side {
-    height: 120px;
+    height: 85px;
     width: 10px!important;
     background-color: #51028e;
     margin-left: px

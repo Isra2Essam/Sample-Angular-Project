@@ -1,60 +1,85 @@
-
-img#ceo{
+img#ceo {
     width: 93%;
     height: 100%;
 }
+
 .motto {
     height: 50px;
     background-color: #ff375c;
     color: #fff;
-    
 }
+
 .safe-data {
     height: 50px;
     background-color: #51028e;
     color: #fff;
-   
 }
-@media screen and (min-width:426px){
-    .motto{
+
+@media screen and (min-width:426px) {
+    .motto {
         font-weight: 600;
         font-size: 18px;
-         margin-left: 13px; 
+        margin-left: 13px;
         width: 21%
     }
-    .safe-data{
+    .safe-data {
         font-weight: 600;
         font-size: 18px;
         width: 76%;
-        /* margin-left: 13px; */
     }
 }
+
 @media screen and (max-width:426px) {
     .motto {
         width: 100% !important;
         margin-left: 8px !important;
     }
-    .safe-data{
+    .safe-data {
         width: 100% !important;
         margin-left: 8px !important
     }
-    .left{
+    .left {
         display: none !important;
     }
-    
-    .objective{
+    .objective {
         max-width: 90%;
     }
-}
-@media only screen and (max-width:769px){
-    img#ceo{
-        width: 70%;
+    .titles h2 {
+        font-size: 25px !important;
+        text-align: center;
     }
-    .left-side{
-        height: 110px !important;
+    .titles h4 {
+        font-size: 20px !important;
+        text-align: center;
+    }
+    .titles p {
+        text-align: center;
+    }
+    img#ceo {
+        width: 90% !important;
+    }
+    .ceo {
+        margin-left: 10%;
     }
 }
 
+@media only screen and (max-width:769px) {
+    img#ceo {
+        width: 54%;
+    }
+    .left-side {
+        height: 110px !important;
+    }
+    .titles h2 {
+        font-size: 25px !important;
+        padding-bottom: 2px !important;
+    }
+    .titles h4 { 
+        font-size: 25px;
+        padding-bottom: 10px !important;
+        margin-bottom: 0px  ;
+    }
+}
 
 h4#title1 {
     color: #51028e
@@ -95,7 +120,6 @@ a {
 
 .qr img {
     width: 100px;
- 
 }
 
 .obj {

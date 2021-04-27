@@ -1,0 +1,226 @@
+[
+    {
+        "title": "The main concepts",
+        "header": "",
+        "iconUrl":"assets/images/icons/privacy.png",
+        
+        "sub": [
+            { 
+                "title": "What is Personal data?" , 
+                "data": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+            },
+            { 
+                "title": "Who is the Data Subject?" , 
+                "data": "It is a long established fact that a reader will be distracted by the readable "
+            },
+            { 
+                "title": "Data protection and privacy" , 
+                "data": "It is a long established fact that a reader will be distracted by the readable "
+            },
+            { 
+                "title": "Data controller and Data processor" , 
+                "data": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+            }
+        ]   
+        
+    },
+
+    {
+        "title": "Local acts and regulations",
+        "header": "",
+        "iconUrl":"assets/images/icons/documents.png",
+        
+        "sub": [
+            { 
+                
+                "title": "Local acts and regulations" , 
+                "data": "What is Lorem Ipsum?"
+            },
+            { 
+                
+                "title": "<span class='number'>1</span> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks" , 
+                "data": [
+                    { 
+                        
+                        "title": "Why do we use it?" , 
+                        "data": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+                    },
+                    { 
+                        
+                        "title": "Where can I get some?" , 
+                        "data": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour."
+                    }
+                ]
+            },
+            { 
+                
+                "title": "<span class='number'>2</span> There are many variations of passages of Lorem Ipsum available." ,
+                "data": [
+                    { 
+                        
+                        "title": "Where does it come from" , 
+                        "data": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage."
+                    },
+                    { 
+                        
+                        "title": "2-1 Lorem Ipsum is simply dummy text of the printing and typesetting industry " , 
+                        "data": "Also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+                    },
+                    { 
+                        
+                        "title": "2-2  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s." , 
+                        "data": "It is a long established fact that a reader will be distracted by the readable content of a page "
+                    },
+                    { 
+                        
+                        "title": "2-3 When an unknown printer took a galley of type and scrambled it to make a type specimen book." , 
+                        "data": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters."
+                    },
+                    { 
+                        
+                        "title": "2-4 It has survived not only five centuries." , 
+                        "data": "as opposed to using 'Content here, content here', making it look like readable English."
+                    }
+                ] 
+
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data Protection and Privacy Principles",
+        "header": "Contrary to popular belief.",
+        "iconUrl":"assets/images/icons/sync.png", 
+              
+        "sub": [
+            { 
+                        
+                "title": "Many desktop publishing packages and web page editors" , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+            },
+            { 
+                
+                "title": "2-1 Now use Lorem Ipsum as their default model text. " , 
+                "data": "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+            },
+            { 
+                
+                "title": "2-2  Search for 'lorem ipsum' will uncover many web sites still in their infancy." , 
+                "data": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia."
+            },
+            { 
+                
+                "title": "2-3 Various versions have evolved over the years." , 
+                "data": "looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature."
+            },
+            { 
+                
+                "title": "2-4 Sometimes by accident, sometimes on purpose (injected humour and the like)." , 
+                "data": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC."
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data Subject Rights",
+        "header": "Lorem Ipsum is not simply random text.",
+        "iconUrl":"assets/images/icons/security.png", 
+              
+        "sub": [
+            { 
+                        
+                "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry." , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin."
+            },
+            { 
+                
+                "title": "2-1 Lorem Ipsum has been the industry's standard dummy text. " , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+            },
+            { 
+                
+                "title": "2-2  When an unknown printer took a galley of type." , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC."
+            },
+            { 
+                
+                "title": "2-3  It has survived not only five centuries." , 
+                "data": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage."
+            },
+            { 
+                
+                "title": "2-4 It was popularised in the 1960s with the release." , 
+                "data": "And going through the cites of the word in classical literature, discovered the undoubtable source."
+            }
+        ]   
+        
+    },
+    {
+        "title": "Data controller obligations & general provisions",
+        "header": "There are many variations of passages of Lorem Ipsum available.",
+        "iconUrl":"assets/images/icons/data-protection.png",             
+        "sub": [
+            { 
+                        
+                "title": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33" , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+            },
+            { 
+                
+                "title": "2-1 Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero " , 
+                "data": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC."
+            },
+            { 
+                
+                "title": "2-2 Written in 45 BC. This book is a treatise on the theory of ethics" , 
+                "data": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            },
+            { 
+                
+                "title": "2-3 Very popular during the Renaissance." , 
+                "data": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            { 
+                
+                "title": "2-4 The first line of Lorem Ipsum." , 
+                "data": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
+            }
+
+        ]   
+        
+    },
+    {
+        "title": "Sensitive Data Categories ",
+        "header": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks.",
+        "iconUrl":"assets/images/icons/padlock.png",
+              
+        "sub": [
+            { 
+                        
+                "title": "A search for 'lorem ipsum' will uncover many web sites still in their infancy." , 
+                "data": "Randomised words which don't look even slightly believable."
+            },
+            { 
+                
+                "title": "2-1  Various versions have evolved over the years. " , 
+                "data": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+            },
+            { 
+                
+                "title": "2-2 Sometimes by accident, sometimes on purpose." , 
+                "data": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks"
+            },
+            { 
+                
+                "title": "2-3 There are many variations of passages of Lorem Ipsum available." , 
+                "data": "as necessary, making this the first true generator on the Internet. "
+            },
+            { 
+                
+                "title": "2-4  By injected humour." , 
+                "data": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures."
+            }
+        ]   
+        
+    }
+]
